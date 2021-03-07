@@ -1,5 +1,5 @@
 # UniFiController
-Notes on unifi controller setup on Debian
+Notes on unifi controller setup on Unbutu
 #Prerequsites 
 #JavaJRE1.8
 #MongoDB 3.6.x
